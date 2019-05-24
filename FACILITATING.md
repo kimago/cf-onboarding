@@ -17,42 +17,41 @@ Whether you are with CF or with Labs, Onboarding Week is intended to be a **faci
 * Create and populate *private* Tracker Project(s). Invite participants.
 * [Request GCP IAAS project(s)](https://docs.google.com/forms/d/e/1FAIpQLSeJ31997Zma1WtLcCtswiysCFWOG5MXNmlYCpJsiYgdG9kKnA/viewform). Once they're created, add participants as Owners.
 * A month before, send out an email to all participants, reminding them to clear their schedules for the week.  Schedule day-long meetings to help avoid people scheduling more meetings for that time.
-```
-Howdy folks!
-If you're getting this email, it means that you're scheduled to participate in CF Onboarding soon (the week of __________________).
 
-During the week you will be pairing full time with each other, working on stories exploring actual user journeys and workflows that are central to the CF ecosystem.
+>Howdy folks!
+>
+>If you're getting this email, it means that you're scheduled to participate in CF Onboarding soon (the week of __________________).
+>
+>During the week you will be pairing full time with each other, working on stories exploring actual user journeys and workflows that are central to the CF ecosystem.
+>
+>There will be more communication closer to the start of CF Onboarding, so don't worry too much about the details of preparation just yet.  You will be pairing full time, however, so your teams should expect you to be away for the majority of the week.  We've put a meeting on your calendar to block out this time.  If you generally have a lot of meetings we recommend cancelling or moving as many of them as possible, but if you need to step out for a meeting here or there, that shouldn't be a problem.
+>
+>If this week doesn't work for you, let us know!  There will be more CF Onboarding weeks and we can move people.
+>
+>Thanks!
+>The CF Onboarding Staff
 
-There will be more communication closer to the start of CF Onboarding, so don't worry too much about the details of preparation just yet.  You will be pairing full time, however, so your teams should expect you to be away for the majority of the week.  We've put a meeting on your calendar to block out this time.  If you generally have a lot of meetings we recommend cancelling or moving as many of them as possible, but if you need to step out for a meeting here or there, that shouldn't be a problem.
-
-If this week doesn't work for you, let us know!  There will be more CF Onboarding weeks and we can move people.
-
-Thanks!
-The CF Onboarding Staff
-```
 * The week before, send out an email to all participants, reminding them that they are signed up for onboarding week and setting expectations about how the week will go. Here is a template that can be used as a starting point:
 
-```
-Howdy folks!
+> Howdy folks!
+>
+>If you're getting this email, it means that you're scheduled to participate in CF Onboarding next week (the week of __________________). I wanted to get in touch with everyone and give you an idea about what to expect next week.
+>
+>For starters, we (_____________ and _____________) will be your facilitators. We'll continue working our "day jobs," but check in a few times a day to answer questions and make sure everyone is doing well. We will also be here for morning stand ups.
+>
+>You will be part of a group with different backgrounds and skills. The stories can get a bit technical, but by and large you'll be going through actual user journeys -- deploying CF with BOSH, pushing an app, debugging broken systems. Please help each other out as much as possible, write down what you learn, and think about how difficulties you have with the stories could be feedback for us as facilitators or for teams that build the products you're using.
 
-If you're getting this email, it means that you're scheduled to participate in CF Onboarding next week (the week of __________________). I wanted to get in touch with everyone and give you an idea about what to expect next week.
+>I also wanted to point out that you will be pairing full time with each other. Your teams should expect you to be away for the majority of the week, but if you need to jump out for a meeting here or there, just let your pair know.
 
-For starters, we (_____________ and _____________) will be your facilitators. We'll continue working our "day jobs," but check in a few times a day to answer questions and make sure everyone is doing well. We will also be here for morning stand ups.
-
-You will be part of a group with different backgrounds and skills. The stories can get a bit technical, but by and large you'll be going through actual user journeys -- deploying CF with BOSH, pushing an app, debugging broken systems. Please help each other out as much as possible, write down what you learn, and think about how difficulties you have with the stories could be feedback for us as facilitators or for teams that build the products you're using.
-
-I also wanted to point out that you will be pairing full time with each other. Your teams should expect you to be away for the majority of the week, but if you need to jump out for a meeting here or there, just let your pair know.
-
-Action Items for you:
-1. If you have any issues with the scheduling, you can always sign up for a different week, but please try to find someone else to take your spot.
-2. Let your anchor and PM know that you'll be away next week for CF Onboarding. Feel free to loop us in if there are any concerns about that.
-3. On Monday morning, please meet downstairs outside of Pegasus and Perseus. We'll have pairing stations ready to go for you. We'll start with an Onboarding orientation, we'll set you up with pre-populated Pivotal Tracker projects with stories for you to work on, and we'll send you on your way.
-
-Otherwise, if you have any questions, feel free to reply to this email.
-
-Thanks!
-The CF Onboarding Staff
-```
+>Action Items for you:
+>1. If you have any issues with the scheduling, you can always sign up for a different week, but please try to find someone else to take your spot.
+>2. Let your anchor and PM know that you'll be away next week for CF Onboarding. Feel free to loop us in if there are any concerns about that.
+>3. On Monday morning, please meet downstairs outside of Pegasus and Perseus. We'll have pairing stations ready to go for you. We'll start with an Onboarding orientation, we'll set you up with pre-populated Pivotal Tracker projects with stories for you to work on, and we'll send you on your way.
+>
+>Otherwise, if you have any questions, feel free to reply to this email.
+>
+>Thanks!
+>The CF Onboarding Staff
 
 ### Communication Suggestions
 * **Morning Standup:** to review how the week is going / answer questions.
